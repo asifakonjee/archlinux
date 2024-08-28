@@ -1,0 +1,12 @@
+avahi
+dnsutils
+firewalld
+net-tools
+netctl
+networkmanager
+networkmanager-openvpn
+network-manager-applet
+nm-connection-editor
+nss-mdns
+wget
+whois

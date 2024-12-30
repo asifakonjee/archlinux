@@ -1,6 +1,5 @@
 cantarell-fonts
 inter-font
-noto-fonts
 ttf-bitstream-vera
 ttf-caladea
 ttf-carlito
